@@ -26,7 +26,7 @@
       "text": true,
       "tracks": true,
       "vias": true,
-      "zones": true
+      "zones": false
     },
     "visible_items": [
       "vias",
@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "BREAD_Slice_smtProto.kicad_prl",
+    "filename": "BREAD_Slice_connProto.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
