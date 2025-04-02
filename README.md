@@ -1,6 +1,6 @@
-# Slice Template
+# Protoptying Slice
 
-Template for creating BREAD slices.
+BREAD slice for creating new BREAD slices.
 
 ## Introduction
 
