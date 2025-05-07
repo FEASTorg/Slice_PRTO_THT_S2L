@@ -608,7 +608,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "BREAD_Slice_headerProto.net",
-      "plot": "",
+      "plot": "outputs",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "BREAD_Slice_headerProto.step",

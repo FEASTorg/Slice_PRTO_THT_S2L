@@ -189,7 +189,8 @@
       ],
       "track_widths": [
         0.0,
-        0.4
+        0.4,
+        1.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -502,7 +503,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "outputs-smt",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
