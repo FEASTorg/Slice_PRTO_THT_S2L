@@ -1,4 +1,6 @@
-# Protoptying Slice
+# Prototyping Slice
+
+THT components.
 
 BREAD slice for creating new BREAD slices.
 
