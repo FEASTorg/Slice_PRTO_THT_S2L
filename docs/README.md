@@ -1,3 +1,3 @@
 # Docs
 
-Referenced: https://github.com/OLIMEX/SMT-PROTOBOARD
+This directory holds all the docs.
